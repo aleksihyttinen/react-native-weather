@@ -4,10 +4,10 @@ A weather app made with React Native that uses the OpenWeatherMap-api (https://o
 Weather icons from https://github.com/basmilius/weather-icons
 
 # Screenshots
-![home_screen1](/screenshots/home_screen1.png)
-![home_screen2](/screenshots/home_screen2.png)
-![forecast_screen1](/screenshots/forecast1.png)
-![forecast_screen2](/screenshots/forecast2.png)
+![home_screen1](/screenshots/home_screen1.PNG)
+![home_screen2](/screenshots/home_screen2.PNG)
+![forecast_screen1](/screenshots/forecast1.PNG)
+![forecast_screen2](/screenshots/forecast2.PNG)
 
 # Motivation
 This app was created for my mobile development studies at Tampere University of Applied Sciences.
